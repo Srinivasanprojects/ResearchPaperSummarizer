@@ -442,7 +442,7 @@ function App() {
                       : [{ type: "text", content: item }];
 
                   return (
-                    <li key={itemIndex} className="text-gray-700">
+                    <li key={itemIndex} className="text-gray-300">
                       {finalItemParts.map((segment, segIndex) => {
                         if (segment.type === "complex") {
                           return (
