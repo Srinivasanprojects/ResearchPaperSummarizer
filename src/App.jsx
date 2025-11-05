@@ -537,10 +537,10 @@ function App() {
         {/* Header */}
         <div className="text-center mb-8 animate-fade-in">
           <h1 className="text-5xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent mb-3 animate-slide-down">
-            📄 DocInsight
+            WebIQ
           </h1>
           <p className="text-gray-300 text-lg animate-fade-in-delay">
-            AI-Powered Document Summarization & Question Answering
+            AI research web explorer
           </p>
         </div>
 
@@ -919,9 +919,7 @@ function App() {
 
         {/* Footer */}
         <div className="text-center mt-8 text-gray-400 text-sm animate-fade-in">
-          <p>
-            Powered by Google Gemini AI • Made with React + Vite + Tailwind CSS
-          </p>
+          <p>Made by WebIQ squad</p>
         </div>
       </div>
     </div>
